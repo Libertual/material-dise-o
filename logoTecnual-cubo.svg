@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="logoTecnual-cubo.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -132,26 +132,26 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       ry="17.42593"
-       y="532.41467"
-       x="-449.20975"
-       height="105.48148"
-       width="258.04718"
+       ry="23.275537"
+       y="619.98303"
+       x="-552.05505"
+       height="138.44614"
+       width="212.80905"
        id="rect3057-7"
-       style="fill:#d40000;stroke:#000000;stroke-width:2.23736143;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="matrix(0.99500925,-0.09978274,0.90722767,0.42063994,0,0)" />
+       style="fill:#d40000;stroke:#000000;stroke-width:2.32773781;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.99999996,2.9976542e-4,0.9129852,0.40799269,0,0)" />
     <rect
-       ry="9.6091957"
-       y="264.71085"
-       x="23.756622"
-       height="234.53911"
-       width="114.75266"
+       ry="9.1306"
+       y="265.3681"
+       x="23.514095"
+       height="222.85767"
+       width="113.77893"
        id="rect3057-0"
-       style="fill:#aa0000;stroke:#000000;stroke-width:2.22478175;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="matrix(0.9041277,0.42726233,0,1,0,0)" />
+       style="fill:#aa0000;stroke:#000000;stroke-width:2.15944958;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.91232962,0.40945654,0,1,0,0)" />
     <g
        id="g4337"
-       transform="matrix(1,-0.09661557,0,1,0,25.168941)">
+       transform="matrix(0.84300709,-0.00746346,0,0.92698755,21.601619,34.556951)">
       <rect
          style="fill:#ff0000;stroke:#000000;stroke-width:3.26497912;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect3057"
